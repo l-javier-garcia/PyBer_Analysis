@@ -9,8 +9,9 @@
 ![summary](https://github.com/l-javier-garcia/new-repo/blob/main/deliverable%203%20summary%20capture.PNG)
 
    By dissecting the 2019 1st quarter by weeks we're able to see that the best performing city type was the urban locations, whereas the rural was the worst performing ones were the rural locations.
+   
 ![2019 Q1 Weekly](https://github.com/l-javier-garcia/new-repo/blob/main/deliverable%203%20Q1%20weekly.PNG)
 
-     In this line graph we can more clearly and concisely see what the previous table was trying to say. 
+   In this line graph we can more clearly and concisely see what the previous table was trying to say. 
 ![line graph](https://github.com/l-javier-garcia/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
